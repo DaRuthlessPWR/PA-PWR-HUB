@@ -1,5 +1,5 @@
 if game.PlaceId == 9892600603 then
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-library/main/source.lua"))()
+    local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-library/main/source.lua"))()
 
 local Window = Library.CreateLib("{PA} PWR HUB {LOTUS MEMBERS ONLY}", "GrapeTheme")
 
