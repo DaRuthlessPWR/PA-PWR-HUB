@@ -308,7 +308,6 @@ end)
 local Tab = Window:NewTab("Mod")
 local MiscSection = Tab:NewSection("Mod")
 
-
 MiscSection:NewButton("Inf Melee/Inf Jump/Boost", "Hit infinite times with no cooldown and v to boost", function()
     local Player = game.Players.LocalPlayer
 
